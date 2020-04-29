@@ -6,4 +6,4 @@
 
 
 
-![](https://github.com/henatan/Online-Maze-problem-solver/blob/master/Slide1.png)
+![](https://github.com/henatan/tkinter-python-project-for-internship/blob/master/pcts.PNG)
